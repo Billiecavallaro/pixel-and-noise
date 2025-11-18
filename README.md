@@ -7,7 +7,7 @@ A beautiful React application for transforming images into pixel art with custom
 - 🎨 **Pixelation Control**: Adjust pixel size from fine detail to chunky retro look
 - 📸 **Noise Effects**: Add vintage grain effects to your pixel art
 - 💾 **Export Options**: Export as SVG (scalable) or PNG
-- 🎭 **Modern UI**: Beautiful gradient design with smooth animations
+- 🎭 **Clean UI**: Modern, minimal interface with smooth animations
 - ⚡ **Fast Processing**: Real-time image processing with canvas API
 
 ## Getting Started
